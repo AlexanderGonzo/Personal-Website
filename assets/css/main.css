@@ -2600,7 +2600,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: rgba(0, 0, 0, 0.829);
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.jpg"), url("");
+		background-image: url(""), url("");
 		background-position: top left,							top left;
 		background-repeat: no-repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -2632,6 +2632,8 @@ input, select, textarea {
 
 		#header strong, #header b {
 			color: #ffffff;
+			font-weight: 200;
+			font-size: 1.2em;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
